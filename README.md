@@ -6,4 +6,7 @@ Weclome to [Yvonne's Leetcode's Link](leetcode-cn.com/u/yvonnewu/)
 ## ArrayList
 1. [704. Binary Search](https://leetcode.com/problems/binary-search/)
 
+## Stack
+[20. Valid Parentheses]([./Stack/stackQuestion.md](https://github.com/Luchanaaaaa/LeetCode/issues/1))
+
 
