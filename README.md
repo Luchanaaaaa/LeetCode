@@ -4,7 +4,7 @@ Weclome to [Yvonne's Leetcode's Link](leetcode-cn.com/u/yvonnewu/)
 ## Online Assement 
 1. [Job scheduling](https://github.com/Luchanaaaaa/LeetCode/issues/2)
 ## Array
-[56. Merge Intervals](https://github.com/Luchanaaaaa/LeetCode/issues/4). 
+[56. Merge Intervals](https://github.com/Luchanaaaaa/LeetCode/issues/4).       
 [704. Binary Search](https://leetcode.com/problems/binary-search/)
  
 ## Backtracking
