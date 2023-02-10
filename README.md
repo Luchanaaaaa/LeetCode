@@ -3,8 +3,10 @@ Here is my email : <ywuyvonne@gmail.com>\
 Weclome to [Yvonne's Leetcode's Link](leetcode-cn.com/u/yvonnewu/)
 ## Online Assement 
 1. [Job scheduling](https://github.com/Luchanaaaaa/LeetCode/issues/2)
-## ArrayList
-1. [704. Binary Search](https://leetcode.com/problems/binary-search/)
+## Array
+[56. Merge Intervals](https://github.com/Luchanaaaaa/LeetCode/issues/4). 
+[704. Binary Search](https://leetcode.com/problems/binary-search/)
+ 
 ## Backtracking
 ### What is Backtracking?
 Backtracking is a general algorithm for finding all (or some) solutions to a problem incrementally by trying out potential solutions, and abandoning a potential solution as soon as it proves to be unfeasible. It is typically used for problems that can be broken down into smaller subproblems, where the problem is to find a solution among all possible combinations of the subproblems.  
