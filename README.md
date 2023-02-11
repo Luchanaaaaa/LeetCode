@@ -55,6 +55,9 @@ Public void backtracking(){
 }  
 ``` 
 
+ 
+## Dynamic Programming
+[5. Longest Palindromic Substring](https://github.com/Luchanaaaaa/LeetCode/issues/6)
 
 
 
