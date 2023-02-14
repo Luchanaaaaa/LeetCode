@@ -1,6 +1,8 @@
 # Yvonne's Leetcode-Problem Solving
 Here is my email : <ywuyvonne@gmail.com>\
-Weclome to [Yvonne's Leetcode's Link](leetcode-cn.com/u/yvonnewu/)
+Weclome to [Yvonne's Leetcode's Link](leetcode-cn.com/u/yvonnewu/).     
+My NoteBook for the [Basic Knowledge](https://github.com/Luchanaaaaa/LeetCode/blob/main/baseKnowledge.md)
+
 ## Online Assement 
 1. [Job scheduling](https://github.com/Luchanaaaaa/LeetCode/issues/2)
 ## Array
