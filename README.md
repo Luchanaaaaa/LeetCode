@@ -14,7 +14,8 @@ My NoteBook for the [Basic Knowledge](https://github.com/Luchanaaaaa/LeetCode/bl
 [77. Combinations](https://github.com/Luchanaaaaa/LeetCode/issues/3)
 
 
- 
+## String
+[14. Longest Common Prefix](https://github.com/Luchanaaaaa/LeetCode/issues/13)
 ## Dynamic Programming
 [5. Longest Palindromic Substring](https://github.com/Luchanaaaaa/LeetCode/issues/6)
 
