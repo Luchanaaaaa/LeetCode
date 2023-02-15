@@ -6,6 +6,7 @@ My NoteBook for the [Basic Knowledge](https://github.com/Luchanaaaaa/LeetCode/bl
 ## Online Assement 
 1. [Job scheduling](https://github.com/Luchanaaaaa/LeetCode/issues/2)
 ## Array
+[15. 3Sum](https://github.com/Luchanaaaaa/LeetCode/issues/11).   
 [56. Merge Intervals](https://github.com/Luchanaaaaa/LeetCode/issues/4).       
 [704. Binary Search](https://github.com/Luchanaaaaa/LeetCode/issues/5)
  
