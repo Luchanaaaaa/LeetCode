@@ -61,7 +61,8 @@ Public void backtracking(){
 ## Dynamic Programming
 [5. Longest Palindromic Substring](https://github.com/Luchanaaaaa/LeetCode/issues/6)
 
-
+## Graph
+[743. Network Delay Time](https://github.com/Luchanaaaaa/LeetCode/issues/10)
 
 ## Stack
 [20. Valid Parentheses]([./Stack/stackQuestion.md](https://github.com/Luchanaaaaa/LeetCode/issues/1))
