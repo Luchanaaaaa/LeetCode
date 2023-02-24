@@ -27,4 +27,5 @@ My NoteBook for the [Basic Knowledge](https://github.com/Luchanaaaaa/LeetCode/bl
 ## Stack
 [20. Valid Parentheses]([./Stack/stackQuestion.md](https://github.com/Luchanaaaaa/LeetCode/issues/1))
 
-
+## HashMap
+[49. Group Anagrams](https://github.com/Luchanaaaaa/LeetCode/issues/15)
