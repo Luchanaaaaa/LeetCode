@@ -18,8 +18,14 @@ My NoteBook for the [Basic Knowledge](https://github.com/Luchanaaaaa/LeetCode/bl
 
 ## String
 [14. Longest Common Prefix](https://github.com/Luchanaaaaa/LeetCode/issues/13)
+
 ## Dynamic Programming
+### Basic Quesiton:
+[509. Fibonacci Number](https://github.com/Luchanaaaaa/LeetCode/issues/17).   
+[70. Climbing Stairs](https://github.com/Luchanaaaaa/LeetCode/issues/18).    
+[746. Min Cost Climbing Stairs](https://github.com/Luchanaaaaa/LeetCode/issues/19).     
 [5. Longest Palindromic Substring](https://github.com/Luchanaaaaa/LeetCode/issues/6)
+
 
 ## Graph
 [743. Network Delay Time](https://github.com/Luchanaaaaa/LeetCode/issues/10)
