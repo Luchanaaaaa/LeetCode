@@ -37,5 +37,6 @@ My NoteBook for the [Basic Knowledge](https://github.com/Luchanaaaaa/LeetCode/bl
 [20. Valid Parentheses]([./Stack/stackQuestion.md](https://github.com/Luchanaaaaa/LeetCode/issues/1))
 
 ## HashMap
+[1. Two Sum] (https://github.com/Luchanaaaaa/LeetCode/issues/22)
 [49. Group Anagrams](https://github.com/Luchanaaaaa/LeetCode/issues/15)    
 [2363. Merge Similar Items](https://github.com/Luchanaaaaa/LeetCode/issues/16)
